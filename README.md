@@ -1,5 +1,4 @@
-# raytracing
-Raytracing from scratch
+# Raytracing
 
 Should visit: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
